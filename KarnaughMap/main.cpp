@@ -30,7 +30,7 @@ int main(){
 	printf("\nInput Expression: %s\n",simplifier.getParsedExpression().c_str());
 
 	// Simplify the input expression using Karnaugh Map and print it
-	printf("\Simplified Expression: %s\n",simplifier.getSimplifiedExpression().c_str());	
+	printf("\nSimplified Expression: %s\n",simplifier.getSimplifiedExpression().c_str());	
 
 	// Wait for the user to press enter to exit
 	getline(cin,line);
