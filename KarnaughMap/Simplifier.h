@@ -1,5 +1,5 @@
 #pragma once
-#include"Map.h"
+#include"Map.cpp"
 #include<vector>
 
 using namespace std;
