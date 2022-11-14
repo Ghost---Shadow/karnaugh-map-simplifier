@@ -1,6 +1,6 @@
 #include<iostream>
 #include<stdio.h>
-#include"Simplifier.h"
+#include"Simplifier.cpp"
 
 using namespace std;
 
